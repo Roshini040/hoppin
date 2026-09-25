@@ -1,0 +1,139 @@
+/* Grail-Inspired Hoppin Design System — Responsive Phone + Web, Light + Dark */
+
+/* Dark Mode Tokens (Grail Noir / Obsidian) */
+:root,
+:root[data-theme="dark"] {
+  --bg-primary: #000000;
+  --bg-secondary: #08080c;
+  --bg-surface: #0f0e14;
+  --bg-surface-elevated: #16151c;
+  --bg-glass: rgba(15, 14, 20, 0.85);
+  --bg-card: rgba(255, 255, 255, 0.035);
+  --bg-card-hover: rgba(255, 255, 255, 0.07);
+
+  --text-primary: #ffffff;
+  --text-secondary: #b5b5be;
+  --text-tertiary: #757582;
+  --text-dim: rgba(255, 255, 255, 0.38);
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-glass: rgba(255, 255, 255, 0.14);
+  --border-active: rgba(255, 205, 255, 0.45);
+
+  --grail-lilac: #ffcdff;
+  --grail-lilac-soft: #ecd2f3;
+  --grail-lilac-dark: #221826;
+  --grail-gold: #c9a24a;
+  --grail-emerald: #34d399;
+
+  --nav-bg: rgba(14, 13, 18, 0.88);
+  --input-bg: rgba(255, 255, 255, 0.04);
+  --input-border: rgba(255, 255, 255, 0.12);
+
+  --shadow-grail: 0 20px 50px rgba(0, 0, 0, 0.85);
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.5);
+  --shadow-pill: 0 8px 24px rgba(255, 205, 255, 0.22);
+}
+
+/* Light Mode Tokens (Grail Warm Editorial Cream / Paper) */
+:root[data-theme="light"] {
+  --bg-primary: #faf8f5;
+  --bg-secondary: #f3efe8;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #f8f6f0;
+  --bg-glass: rgba(255, 255, 255, 0.88);
+  --bg-card: rgba(0, 0, 0, 0.025);
+  --bg-card-hover: rgba(0, 0, 0, 0.05);
+
+  --text-primary: #121216;
+  --text-secondary: #575762;
+  --text-tertiary: #8b8b98;
+  --text-dim: rgba(0, 0, 0, 0.3);
+
+  --border-subtle: rgba(0, 0, 0, 0.07);
+  --border-glass: rgba(0, 0, 0, 0.1);
+  --border-active: #221826;
+
+  --grail-lilac: #221826;
+  --grail-lilac-soft: #ecd2f3;
+  --grail-lilac-dark: #ffffff;
+  --grail-gold: #9e731b;
+  --grail-emerald: #059669;
+
+  --nav-bg: rgba(255, 255, 255, 0.92);
+  --input-bg: #f3efe8;
+  --input-border: rgba(0, 0, 0, 0.12);
+
+  --shadow-grail: 0 20px 45px rgba(0, 0, 0, 0.08);
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --shadow-pill: 0 8px 24px rgba(34, 24, 38, 0.18);
+}
+
+:root {
+  --radius-pill: 9999px;
+  --radius-card: 24px;
+  --radius-modal: 28px;
+  --radius-sm: 12px;
+
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, system-ui, sans-serif;
+  --font-mono: 'Space Grotesk', ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: var(--grail-lilac-soft);
+  color: #221826;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: var(--font-sans);
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+}
+
+input, select, textarea {
+  font-family: inherit;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+/* Responsive Utilities */
+@media (max-width: 768px) {
+  :root {
+    --radius-card: 20px;
+    --radius-modal: 24px;
+  }
+}

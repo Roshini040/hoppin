@@ -1,0 +1,2137 @@
+{
+  "venues": [
+    {
+      "id": "v01",
+      "name": "Arena Sports Complex",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "cat": "sports",
+      "tags": [
+        "Badminton",
+        "Football",
+        "Floodlit"
+      ],
+      "price": 1000,
+      "rating": 4.8,
+      "reviews": 260,
+      "lat": 12.97479,
+      "lng": 77.6363,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Arena Sports Complex in Indiranagar. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v02",
+      "name": "The Shuttle Court",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "cat": "sports",
+      "tags": [
+        "Badminton",
+        "Indoor",
+        "Racquets"
+      ],
+      "price": 950,
+      "rating": 4.7,
+      "reviews": 515,
+      "lat": 12.98347,
+      "lng": 77.63541,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Shuttle Court in Indiranagar. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1613918431703-aa6321b25595?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v03",
+      "name": "Koramangala Indoor Stadium",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Koramangala",
+      "cat": "sports",
+      "tags": [
+        "Indoor",
+        "Multi-sport",
+        "Badminton"
+      ],
+      "price": 1700,
+      "rating": 4.8,
+      "reviews": 1528,
+      "lat": 12.93561,
+      "lng": 77.61905,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Koramangala Indoor Stadium in Koramangala. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v04",
+      "name": "Holy Ghost Church Grounds",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Central Bengaluru",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Open ground",
+        "Weekend games"
+      ],
+      "price": 1500,
+      "rating": 5,
+      "reviews": 963,
+      "lat": 12.97159,
+      "lng": 77.59617,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Holy Ghost Church Grounds in Central Bengaluru. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v05",
+      "name": "Aurum Luxury Fitness Club",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "cat": "fitness",
+      "tags": [
+        "Luxury",
+        "Pink salt sauna",
+        "Personal training"
+      ],
+      "price": 500,
+      "rating": 4.5,
+      "reviews": 71,
+      "lat": 12.97868,
+      "lng": 77.64628,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "A luxury club with a pink salt sauna. Book a session, train hard, then let the sauna do the rest.",
+      "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v06",
+      "name": "Cult Gym Indiranagar",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "cat": "fitness",
+      "tags": [
+        "Group classes",
+        "Strength",
+        "Gym"
+      ],
+      "price": 1150,
+      "rating": 4.9,
+      "reviews": 386,
+      "lat": 12.98074,
+      "lng": 77.63971,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Cult Gym Indiranagar in Indiranagar. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v07",
+      "name": "CrossFit Brave",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "CrossFit",
+        "HIIT",
+        "Coached"
+      ],
+      "price": 800,
+      "rating": 4.7,
+      "reviews": 497,
+      "lat": 12.97462,
+      "lng": 77.59979,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "CrossFit Brave in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v08",
+      "name": "Chisel Fitness",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "Gym",
+        "Strength",
+        "Training"
+      ],
+      "price": 750,
+      "rating": 4.9,
+      "reviews": 702,
+      "lat": 12.97206,
+      "lng": 77.59357,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Chisel Fitness in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v09",
+      "name": "Cyborg Fitness",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "Gym",
+        "Cardio",
+        "Training"
+      ],
+      "price": 1100,
+      "rating": 4.8,
+      "reviews": 1160,
+      "lat": 12.97719,
+      "lng": 77.59293,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Cyborg Fitness in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v10",
+      "name": "Fitness First",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "Gym",
+        "Studio",
+        "Cardio"
+      ],
+      "price": 1450,
+      "rating": 4.4,
+      "reviews": 56,
+      "lat": 12.96906,
+      "lng": 77.59575,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Fitness First in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v11",
+      "name": "Gold's Gym",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "Gym",
+        "Weights",
+        "Classic"
+      ],
+      "price": 800,
+      "rating": 4.2,
+      "reviews": 563,
+      "lat": 12.97685,
+      "lng": 77.59604,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Gold's Gym in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v12",
+      "name": "Snap Fitness",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "fitness",
+      "tags": [
+        "24/7",
+        "Gym",
+        "Cardio"
+      ],
+      "price": 1200,
+      "rating": 4.6,
+      "reviews": 419,
+      "lat": 12.96901,
+      "lng": 77.59308,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Snap Fitness in Bengaluru. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v13",
+      "name": "Toit Brewpub",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "cat": "pubs",
+      "tags": [
+        "Craft beer",
+        "Brewpub",
+        "Groups"
+      ],
+      "price": 1150,
+      "rating": 4.3,
+      "reviews": 1653,
+      "lat": 12.98343,
+      "lng": 77.64076,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "A Bengaluru brewpub known for house-brewed craft beer. Reserve a table for the whole crew.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v14",
+      "name": "Bob's Bar",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Bar",
+        "Drinks",
+        "Groups"
+      ],
+      "price": 750,
+      "rating": 4.4,
+      "reviews": 182,
+      "lat": 12.9709,
+      "lng": 77.59828,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Bob's Bar in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v15",
+      "name": "1131 Bar + Kitchen",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Bar",
+        "Kitchen",
+        "Cocktails"
+      ],
+      "price": 700,
+      "rating": 4.6,
+      "reviews": 726,
+      "lat": 12.96604,
+      "lng": 77.59739,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "1131 Bar + Kitchen in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v16",
+      "name": "21st Amendment Gastrobar",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Gastrobar",
+        "Cocktails",
+        "Groups"
+      ],
+      "price": 750,
+      "rating": 4.5,
+      "reviews": 1232,
+      "lat": 12.97395,
+      "lng": 77.59275,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "21st Amendment Gastrobar in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1538488254700-2e955b9c4500?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v17",
+      "name": "The Reservoire",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Lounge",
+        "Cocktails",
+        "Nights"
+      ],
+      "price": 800,
+      "rating": 4.6,
+      "reviews": 1681,
+      "lat": 12.97491,
+      "lng": 77.59585,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Reservoire in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v18",
+      "name": "Plan B",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Bar",
+        "Drinks",
+        "Nights"
+      ],
+      "price": 900,
+      "rating": 4.1,
+      "reviews": 868,
+      "lat": 12.96987,
+      "lng": 77.59032,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Plan B in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v19",
+      "name": "Tipsy Bull Bar Exchange",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Bar exchange",
+        "Drinks",
+        "Groups"
+      ],
+      "price": 600,
+      "rating": 4.8,
+      "reviews": 47,
+      "lat": 12.97414,
+      "lng": 77.5905,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Tipsy Bull Bar Exchange in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v20",
+      "name": "Doff Pub",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "pubs",
+      "tags": [
+        "Pub",
+        "Drinks",
+        "Casual"
+      ],
+      "price": 1050,
+      "rating": 4.7,
+      "reviews": 850,
+      "lat": 12.96783,
+      "lng": 77.59939,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Doff Pub in Bengaluru. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1560512823-829485b8bf24?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v21",
+      "name": "Swiing Gourmet Table & Wine Bar",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "dining",
+      "tags": [
+        "Wine bar",
+        "Gourmet",
+        "Date night"
+      ],
+      "price": 800,
+      "rating": 4.9,
+      "reviews": 408,
+      "lat": 12.97716,
+      "lng": 77.5936,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Swiing Gourmet Table & Wine Bar in Bengaluru. Book a table ahead so you can walk straight in.",
+      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v22",
+      "name": "Vesparo",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "dining",
+      "tags": [
+        "Dinner",
+        "Restaurant",
+        "Date night"
+      ],
+      "price": 750,
+      "rating": 4.2,
+      "reviews": 906,
+      "lat": 12.96788,
+      "lng": 77.59891,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Vesparo in Bengaluru. Book a table ahead so you can walk straight in.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v23",
+      "name": "YUKI Pan-Asian",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "dining",
+      "tags": [
+        "Pan-Asian",
+        "Dinner",
+        "Groups"
+      ],
+      "price": 950,
+      "rating": 4.7,
+      "reviews": 76,
+      "lat": 12.9691,
+      "lng": 77.59774,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "YUKI Pan-Asian in Bengaluru. Book a table ahead so you can walk straight in.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v24",
+      "name": "Colosseum E-Sports",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "gaming",
+      "tags": [
+        "E-sports",
+        "PC gaming",
+        "Squads"
+      ],
+      "price": 600,
+      "rating": 5,
+      "reviews": 1516,
+      "lat": 12.97324,
+      "lng": 77.58868,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Colosseum E-Sports in Bengaluru. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v25",
+      "name": "IONA VR Simulators",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Whitefield",
+      "cat": "gaming",
+      "tags": [
+        "VR",
+        "Simulators",
+        "Arcade"
+      ],
+      "price": 1000,
+      "rating": 4.9,
+      "reviews": 88,
+      "lat": 12.97479,
+      "lng": 77.74847,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "IONA VR Simulators in Whitefield. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v26",
+      "name": "Fun City",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "gaming",
+      "tags": [
+        "Arcade",
+        "Family",
+        "Games"
+      ],
+      "price": 850,
+      "rating": 5,
+      "reviews": 75,
+      "lat": 12.96638,
+      "lng": 77.59632,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Fun City in Bengaluru. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v27",
+      "name": "WonderLa Arcade",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bidadi",
+      "cat": "gaming",
+      "tags": [
+        "Arcade",
+        "Rides",
+        "Family"
+      ],
+      "price": 650,
+      "rating": 5,
+      "reviews": 1727,
+      "lat": 12.82903,
+      "lng": 77.39947,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "WonderLa Arcade in Bidadi. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1612287232230-65c27f3f269a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v28",
+      "name": "Cubbon Park Yoga Flow Meetup",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Cubbon Park",
+      "cat": "clubs",
+      "tags": [
+        "Yoga",
+        "Sundays",
+        "Outdoors"
+      ],
+      "price": 450,
+      "rating": 4.6,
+      "reviews": 437,
+      "lat": 12.97283,
+      "lng": 77.58748,
+      "slots": [
+        "06:30 AM"
+      ],
+      "days": [
+        0
+      ],
+      "added": false,
+      "desc": "A Sunday morning flow in Cubbon Park at 6:30 AM. Bring a mat and show up.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v29",
+      "name": "The Amateur League (TAL)",
+      "city": "BLR",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "cat": "clubs",
+      "tags": [
+        "Football",
+        "League",
+        "Community"
+      ],
+      "price": 550,
+      "rating": 4.5,
+      "reviews": 236,
+      "lat": 12.97375,
+      "lng": 77.58948,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Amateur League (TAL) in Bengaluru. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v30",
+      "name": "Tiki Taka Football Academy & Turf · Kilpauk",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Kilpauk",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Turf",
+        "Floodlit"
+      ],
+      "price": 1600,
+      "rating": 4.4,
+      "reviews": 177,
+      "lat": 13.08007,
+      "lng": 80.243,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Tiki Taka Football Academy & Turf · Kilpauk in Kilpauk. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v31",
+      "name": "Tiki Taka Football Academy & Turf · T. Nagar",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "T. Nagar",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Turf",
+        "Floodlit"
+      ],
+      "price": 600,
+      "rating": 4.8,
+      "reviews": 160,
+      "lat": 13.04043,
+      "lng": 80.23102,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Tiki Taka Football Academy & Turf · T. Nagar in T. Nagar. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v32",
+      "name": "Tiki Taka Football Academy & Turf · Velachery",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Velachery",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Turf",
+        "Floodlit"
+      ],
+      "price": 1800,
+      "rating": 5,
+      "reviews": 1218,
+      "lat": 12.98143,
+      "lng": 80.21525,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Tiki Taka Football Academy & Turf · Velachery in Velachery. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v33",
+      "name": "FC Marina Turf & Football Academy · Vanagaram",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Vanagaram",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Turf",
+        "Academy"
+      ],
+      "price": 1350,
+      "rating": 4.3,
+      "reviews": 94,
+      "lat": 13.04531,
+      "lng": 80.15147,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "FC Marina Turf & Football Academy · Vanagaram in Vanagaram. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v34",
+      "name": "FC Marina Turf & Football Academy · Thiruvanmiyur",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Thiruvanmiyur",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Turf",
+        "Academy"
+      ],
+      "price": 1200,
+      "rating": 4.6,
+      "reviews": 171,
+      "lat": 12.9859,
+      "lng": 80.25544,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "FC Marina Turf & Football Academy · Thiruvanmiyur in Thiruvanmiyur. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v35",
+      "name": "Spark Football Academy",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Puzhuthivakkam",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "Academy",
+        "Turf"
+      ],
+      "price": 1900,
+      "rating": 4.4,
+      "reviews": 552,
+      "lat": 12.97082,
+      "lng": 80.19134,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Spark Football Academy in Puzhuthivakkam. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v36",
+      "name": "Playpro7 Sport Turf",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "sports",
+      "tags": [
+        "Turf",
+        "5v5",
+        "Floodlit"
+      ],
+      "price": 1750,
+      "rating": 4.6,
+      "reviews": 938,
+      "lat": 13.08835,
+      "lng": 80.27455,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Playpro7 Sport Turf in Chennai. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v37",
+      "name": "El Clasico Football Turf",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chromepet",
+      "cat": "sports",
+      "tags": [
+        "Football",
+        "5v5",
+        "Floodlit"
+      ],
+      "price": 1200,
+      "rating": 4.9,
+      "reviews": 637,
+      "lat": 12.95277,
+      "lng": 80.14432,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "El Clasico Football Turf in Chromepet. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v38",
+      "name": "Estilio Sports Academy",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Anna Nagar",
+      "cat": "sports",
+      "tags": [
+        "Multi-sport",
+        "Academy",
+        "Coaching"
+      ],
+      "price": 1800,
+      "rating": 4.8,
+      "reviews": 219,
+      "lat": 13.09009,
+      "lng": 80.20813,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Estilio Sports Academy in Anna Nagar. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v39",
+      "name": "Dugout Indoor Arena · OMR",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "OMR",
+      "cat": "sports",
+      "tags": [
+        "Indoor",
+        "Multi-sport",
+        "Arena"
+      ],
+      "price": 1450,
+      "rating": 4.4,
+      "reviews": 42,
+      "lat": 12.89819,
+      "lng": 80.23012,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Dugout Indoor Arena · OMR in OMR. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1531415074868-036b107e775a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v40",
+      "name": "Dugout Indoor Arena · Velachery Mall",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Velachery Mall",
+      "cat": "sports",
+      "tags": [
+        "Indoor",
+        "Multi-sport",
+        "Arena"
+      ],
+      "price": 1300,
+      "rating": 4.9,
+      "reviews": 113,
+      "lat": 12.97837,
+      "lng": 80.21497,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Dugout Indoor Arena · Velachery Mall in Velachery Mall. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1531415074868-036b107e775a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v41",
+      "name": "Plug N Play by Munchow",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Perungudi",
+      "cat": "sports",
+      "tags": [
+        "Turf",
+        "Badminton",
+        "Snacks"
+      ],
+      "price": 650,
+      "rating": 4.8,
+      "reviews": 1031,
+      "lat": 12.96607,
+      "lng": 80.24532,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Plug N Play by Munchow in Perungudi. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v42",
+      "name": "SDAT Tennis Stadium",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Nungambakkam",
+      "cat": "sports",
+      "tags": [
+        "Tennis",
+        "Hard courts",
+        "Outdoor"
+      ],
+      "price": 1500,
+      "rating": 4.8,
+      "reviews": 414,
+      "lat": 13.05974,
+      "lng": 80.24466,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": true,
+      "desc": "SDAT Tennis Stadium in Nungambakkam. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v43",
+      "name": "Nehru Indoor Stadium",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Periamet",
+      "cat": "sports",
+      "tags": [
+        "Indoor",
+        "Multi-sport",
+        "Badminton"
+      ],
+      "price": 1600,
+      "rating": 4.9,
+      "reviews": 462,
+      "lat": 13.07847,
+      "lng": 80.26566,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "05:00 PM",
+        "06:00 PM",
+        "07:00 PM",
+        "08:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": true,
+      "desc": "Nehru Indoor Stadium in Periamet. Hourly slots to play with your crew. Pick a time, turn up in your kit and the pitch is yours.",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v44",
+      "name": "Cult Adyar",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Adyar",
+      "cat": "fitness",
+      "tags": [
+        "Group classes",
+        "Strength",
+        "Gym"
+      ],
+      "price": 500,
+      "rating": 4.8,
+      "reviews": 1354,
+      "lat": 13.00355,
+      "lng": 80.25136,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Cult Adyar in Adyar. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v45",
+      "name": "Cult Alwarpet",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Alwarpet",
+      "cat": "fitness",
+      "tags": [
+        "Group classes",
+        "Strength",
+        "Gym"
+      ],
+      "price": 700,
+      "rating": 4.7,
+      "reviews": 1748,
+      "lat": 13.03967,
+      "lng": 80.24979,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Cult Alwarpet in Alwarpet. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v46",
+      "name": "Cult T. Nagar",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "T. Nagar",
+      "cat": "fitness",
+      "tags": [
+        "Group classes",
+        "Strength",
+        "Gym"
+      ],
+      "price": 1500,
+      "rating": 4.1,
+      "reviews": 403,
+      "lat": 13.03709,
+      "lng": 80.22916,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Cult T. Nagar in T. Nagar. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v47",
+      "name": "Women's Gym · Adyar",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Adyar",
+      "cat": "fitness",
+      "tags": [
+        "Women-only",
+        "Gym",
+        "Training"
+      ],
+      "price": 500,
+      "rating": 4.5,
+      "reviews": 440,
+      "lat": 13.00346,
+      "lng": 80.25317,
+      "slots": [
+        "06:00 AM",
+        "07:00 AM",
+        "09:00 AM",
+        "12:00 PM",
+        "05:00 PM",
+        "07:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Women's Gym · Adyar in Adyar. Book a session or a day pass and train on your schedule.",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v48",
+      "name": "The Madras Taproom",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Egmore",
+      "cat": "pubs",
+      "tags": [
+        "Taproom",
+        "Craft beer",
+        "Groups"
+      ],
+      "price": 900,
+      "rating": 5,
+      "reviews": 1530,
+      "lat": 13.07245,
+      "lng": 80.25705,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Madras Taproom in Egmore. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v49",
+      "name": "Watson's",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "T. Nagar",
+      "cat": "pubs",
+      "tags": [
+        "Bar",
+        "Drinks",
+        "Groups"
+      ],
+      "price": 500,
+      "rating": 4.5,
+      "reviews": 1106,
+      "lat": 13.04556,
+      "lng": 80.23061,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Watson's in T. Nagar. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v50",
+      "name": "Shout Bar & Cafe",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Porur",
+      "cat": "pubs",
+      "tags": [
+        "Bar",
+        "Cafe",
+        "Groups"
+      ],
+      "price": 800,
+      "rating": 4.4,
+      "reviews": 1022,
+      "lat": 13.03788,
+      "lng": 80.15135,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Shout Bar & Cafe in Porur. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v51",
+      "name": "Slounge (Lemon Tree Shimona)",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Guindy",
+      "cat": "pubs",
+      "tags": [
+        "Lounge",
+        "Hotel bar",
+        "Cocktails"
+      ],
+      "price": 700,
+      "rating": 4.6,
+      "reviews": 1093,
+      "lat": 13.01095,
+      "lng": 80.2149,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Slounge (Lemon Tree Shimona) in Guindy. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v52",
+      "name": "The Alwarpet Taproom",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Alwarpet",
+      "cat": "pubs",
+      "tags": [
+        "Taproom",
+        "Craft beer",
+        "Groups"
+      ],
+      "price": 1100,
+      "rating": 4.8,
+      "reviews": 702,
+      "lat": 13.03866,
+      "lng": 80.2526,
+      "slots": [
+        "12:00 PM",
+        "04:00 PM",
+        "06:00 PM",
+        "07:30 PM",
+        "09:00 PM",
+        "10:30 PM"
+      ],
+      "days": null,
+      "added": true,
+      "desc": "The Alwarpet Taproom in Alwarpet. Reserve a table for your group. Arrive, order a round, stay a while.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v53",
+      "name": "Atte · Glocal Cafe",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Besant Nagar",
+      "cat": "dining",
+      "tags": [
+        "Beachside",
+        "Cafe",
+        "Brunch"
+      ],
+      "price": 700,
+      "rating": 4.9,
+      "reviews": 635,
+      "lat": 13.00519,
+      "lng": 80.26874,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "A beachside cafe in Besant Nagar. Morning tables come with the sea breeze.",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v54",
+      "name": "The Old Potion House",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Adyar",
+      "cat": "dining",
+      "tags": [
+        "Cafe",
+        "Quirky",
+        "Groups"
+      ],
+      "price": 600,
+      "rating": 4.7,
+      "reviews": 82,
+      "lat": 13.0061,
+      "lng": 80.25795,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Old Potion House in Adyar. Book a table ahead so you can walk straight in.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v55",
+      "name": "Zha Cafe",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "dining",
+      "tags": [
+        "Board games",
+        "Herbal coffee",
+        "Traditional"
+      ],
+      "price": 850,
+      "rating": 4.9,
+      "reviews": 984,
+      "lat": 13.08818,
+      "lng": 80.27161,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Traditional board games and herbal coffee. Slow afternoons, no screens.",
+      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v56",
+      "name": "Untangle House of Puzzles",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "dining",
+      "tags": [
+        "Puzzles",
+        "Cafe",
+        "Groups"
+      ],
+      "price": 700,
+      "rating": 4.5,
+      "reviews": 68,
+      "lat": 13.07906,
+      "lng": 80.26702,
+      "slots": [
+        "08:00 AM",
+        "12:30 PM",
+        "04:00 PM",
+        "07:00 PM",
+        "08:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Untangle House of Puzzles in Chennai. Book a table ahead so you can walk straight in.",
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v57",
+      "name": "Gameistry",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Egmore",
+      "cat": "gaming",
+      "tags": [
+        "1,300+ board games",
+        "Board games",
+        "Cafe"
+      ],
+      "price": 1050,
+      "rating": 4.6,
+      "reviews": 1536,
+      "lat": 13.07105,
+      "lng": 80.2645,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "A shelf of 1,300+ board games. Pick a table, pick a slot, and let the staff teach you something new.",
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v58",
+      "name": "The Board Room",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Mylapore",
+      "cat": "gaming",
+      "tags": [
+        "Board games",
+        "Strategy",
+        "Groups"
+      ],
+      "price": 1100,
+      "rating": 4.4,
+      "reviews": 1604,
+      "lat": 13.03141,
+      "lng": 80.26674,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Board Room in Mylapore. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v59",
+      "name": "The Board Game Lounge",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Adyar",
+      "cat": "gaming",
+      "tags": [
+        "Board games",
+        "Lounge",
+        "Groups"
+      ],
+      "price": 850,
+      "rating": 4.3,
+      "reviews": 243,
+      "lat": 13.00187,
+      "lng": 80.25661,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "The Board Game Lounge in Adyar. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v60",
+      "name": "GameOn Cafe",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "T. Nagar",
+      "cat": "gaming",
+      "tags": [
+        "Gaming",
+        "Cafe",
+        "Squads"
+      ],
+      "price": 900,
+      "rating": 5,
+      "reviews": 954,
+      "lat": 13.04768,
+      "lng": 80.23443,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "GameOn Cafe in T. Nagar. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v61",
+      "name": "Gamesync",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Velachery",
+      "cat": "gaming",
+      "tags": [
+        "Gaming",
+        "Console",
+        "Squads"
+      ],
+      "price": 900,
+      "rating": 4.2,
+      "reviews": 1408,
+      "lat": 12.97594,
+      "lng": 80.21608,
+      "slots": [
+        "11:00 AM",
+        "01:00 PM",
+        "03:00 PM",
+        "05:00 PM",
+        "07:00 PM",
+        "09:00 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Gamesync in Velachery. Grab a two-hour block with friends. Screens are optional, dice are not.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v62",
+      "name": "Chennai Runners (Bessie Flyers)",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Elliot's Beach",
+      "cat": "clubs",
+      "tags": [
+        "Running",
+        "5:15 AM",
+        "Beachfront"
+      ],
+      "price": 450,
+      "rating": 4.5,
+      "reviews": 687,
+      "lat": 13.00015,
+      "lng": 80.27599,
+      "slots": [
+        "05:15 AM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Bessie Flyers meet at 5:15 AM on Elliot's Beach. Show up, run together, get breakfast after.",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v63",
+      "name": "CORSO Run Club",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "clubs",
+      "tags": [
+        "Running",
+        "Community",
+        "Weekly"
+      ],
+      "price": 550,
+      "rating": 4.9,
+      "reviews": 530,
+      "lat": 13.07809,
+      "lng": 80.26564,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "CORSO Run Club in Chennai. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v64",
+      "name": "Dream Runners",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "clubs",
+      "tags": [
+        "Running",
+        "Community",
+        "Weekly"
+      ],
+      "price": 550,
+      "rating": 4.5,
+      "reviews": 312,
+      "lat": 13.07748,
+      "lng": 80.26925,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Dream Runners in Chennai. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v65",
+      "name": "VAMOS Run Club",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "clubs",
+      "tags": [
+        "Running",
+        "Community",
+        "Weekly"
+      ],
+      "price": 450,
+      "rating": 4.9,
+      "reviews": 1071,
+      "lat": 13.07792,
+      "lng": 80.27263,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "VAMOS Run Club in Chennai. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v66",
+      "name": "Ciclo Cafe Community",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "clubs",
+      "tags": [
+        "Cycling",
+        "Cafe",
+        "Community"
+      ],
+      "price": 500,
+      "rating": 4.4,
+      "reviews": 809,
+      "lat": 13.08713,
+      "lng": 80.26946,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "Ciclo Cafe Community in Chennai. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "v67",
+      "name": "WCCG Cycling Group",
+      "city": "MAA",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "cat": "clubs",
+      "tags": [
+        "Cycling",
+        "Group rides",
+        "Community"
+      ],
+      "price": 400,
+      "rating": 4.7,
+      "reviews": 656,
+      "lat": 13.08362,
+      "lng": 80.27468,
+      "slots": [
+        "05:30 AM",
+        "06:00 AM",
+        "06:30 PM"
+      ],
+      "days": null,
+      "added": false,
+      "desc": "WCCG Cycling Group in Chennai. Show up, meet the group, move together. A community event, not a class.",
+      "image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?auto=format&fit=crop&w=900&q=80"
+    }
+  ],
+  "users": {
+    "guest@hoppin.demo": {
+      "id": "usr_guest",
+      "email": "guest@hoppin.demo",
+      "name": "Guest",
+      "passwordHash": "Z3Vlc3QtZGVtbw==",
+      "createdAt": 1790251218493
+    },
+    "roshinisoundar04@gmail.com": {
+      "id": "usr_1790312525946_797",
+      "email": "roshinisoundar04@gmail.com",
+      "name": "Abinaya S",
+      "passwordHash": "b2l1eXRyZWFzZGZnaA==",
+      "createdAt": 1790312525956
+    }
+  },
+  "bookings": [
+    {
+      "id": "HP-S8EBD5",
+      "ref": "HP-S8EBD5",
+      "userEmail": "roshinisoundar04@gmail.com",
+      "userName": "Abinaya S",
+      "venueId": "v56",
+      "venueName": "Untangle House of Puzzles",
+      "cityName": "Chennai",
+      "area": "Chennai",
+      "iso": "2026-09-25",
+      "slot": "08:30 PM",
+      "partySize": 1,
+      "price": 800,
+      "fee": 30,
+      "disc": 0,
+      "total": 830,
+      "status": "upcoming",
+      "createdAt": 1790321998385,
+      "last4": ""
+    },
+    {
+      "id": "HP-UH9RCP",
+      "ref": "HP-UH9RCP",
+      "userEmail": "roshinisoundar04@gmail.com",
+      "userName": "Abinaya S",
+      "venueId": "v24",
+      "venueName": "Colosseum E-Sports",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "iso": "2026-09-25",
+      "slot": "01:00 PM",
+      "partySize": 1,
+      "price": 600,
+      "fee": 30,
+      "disc": 0,
+      "total": 630,
+      "status": "upcoming",
+      "createdAt": 1790321337238,
+      "last4": ""
+    },
+    {
+      "id": "HP-JPJT6Z",
+      "ref": "HP-JPJT6Z",
+      "userEmail": "roshini@test.com",
+      "userName": "Roshini",
+      "venueId": "v15",
+      "venueName": "1131 Bar + Kitchen",
+      "cityName": "Bengaluru",
+      "area": "Bengaluru",
+      "iso": "2026-09-25",
+      "slot": "09:00 PM",
+      "partySize": 1,
+      "price": 800,
+      "fee": 30,
+      "disc": 0,
+      "total": 830,
+      "status": "upcoming",
+      "createdAt": 1790320924741,
+      "last4": ""
+    },
+    {
+      "id": "HP-ESQQW2",
+      "ref": "HP-ESQQW2",
+      "userEmail": "roshinisoundar04@gmail.com",
+      "userName": "Abinaya S",
+      "venueId": "v47",
+      "venueName": "Women's Gym · Adyar",
+      "cityName": "Chennai",
+      "area": "Adyar",
+      "iso": "2026-09-25",
+      "slot": "05:00 PM",
+      "partySize": 1,
+      "price": 600,
+      "fee": 30,
+      "disc": 0,
+      "total": 630,
+      "status": "upcoming",
+      "createdAt": 1790312555574,
+      "last4": ""
+    },
+    {
+      "id": "HP-6GTZSQ",
+      "ref": "HP-6GTZSQ",
+      "userEmail": "guest@hoppin.demo",
+      "userName": "Guest Tester",
+      "venueId": "v01",
+      "venueName": "Arena Sports Complex",
+      "cityName": "Bengaluru",
+      "area": "Indiranagar",
+      "iso": "2026-09-25",
+      "slot": "05:00 PM",
+      "partySize": 2,
+      "price": 1150,
+      "fee": 30,
+      "disc": 230,
+      "total": 950,
+      "status": "upcoming",
+      "createdAt": 1790251247056,
+      "last4": "4242"
+    }
+  ],
+  "reviews": {},
+  "saved": {}
+}

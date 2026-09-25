@@ -1,0 +1,19 @@
+{
+  "name": "hoppin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discover & book verified courts, turfs, resto-bars, board games, and youth health clubs across Bengaluru and Chennai.",
+  "workspaces": [
+    "apps/*",
+    "server",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/web",
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:server": "npm run dev --workspace=server",
+    "build": "npm run build --workspace=apps/web",
+    "build:web": "npm run build --workspace=apps/web",
+    "start": "npm run dev --workspace=apps/web"
+  }
+}
