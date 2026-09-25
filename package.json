@@ -9,11 +9,11 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "npm run dev --workspace=apps/web",
-    "dev:web": "npm run dev --workspace=apps/web",
-    "dev:server": "npm run dev --workspace=server",
-    "build": "npm run build --workspace=apps/web",
-    "build:web": "npm run build --workspace=apps/web",
-    "start": "npm run dev --workspace=apps/web"
+    "dev": "npm --prefix apps/web run dev",
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build": "npm --prefix apps/web run build",
+    "build:web": "npm --prefix apps/web run build",
+    "start": "npm --prefix apps/web run dev"
   }
 }
