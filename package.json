@@ -12,7 +12,7 @@
     "dev": "npm --prefix apps/web run dev",
     "dev:web": "npm --prefix apps/web run dev",
     "dev:server": "npm --prefix server run dev",
-    "build": "npm --prefix apps/web run build",
+    "build": "node build-all.js",
     "build:web": "npm --prefix apps/web run build",
     "start": "npm --prefix apps/web run dev"
   }
